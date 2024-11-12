@@ -1,3 +1,0 @@
-[INFO] 06-11-2024 23:40:52 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckTheQuantityStarted
-[INFO] 06-11-2024 23:40:54 [main] [Pages.P02_ProductsPage.selectRandomProduct(P02_ProductsPage.java:58)] - the numbers is [3, 5, 6]
-[INFO] 06-11-2024 23:40:54 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckTheQuantityPassed

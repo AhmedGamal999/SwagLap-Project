@@ -1,9 +1,0 @@
-[INFO] 07-11-2024 13:57:25 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckRedirectTocartStarted
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $29.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $9.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $15.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $49.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $7.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:88)] - $15.99
-[INFO] 07-11-2024 13:57:27 [main] [Pages.P02_ProductsPage.AllProductsPrices(P02_ProductsPage.java:91)] - [$29.99, $9.99, $15.99, $49.99, $7.99, $15.99]
-[INFO] 07-11-2024 13:57:27 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckRedirectTocartPassed

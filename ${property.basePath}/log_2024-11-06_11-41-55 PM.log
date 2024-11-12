@@ -1,8 +1,0 @@
-[INFO] 06-11-2024 23:41:56 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckRedirectTocartStarted
-[INFO] 06-11-2024 23:41:58 [main] [Pages.P02_ProductsPage.selectRandomProduct(P02_ProductsPage.java:58)] - the numbers is [2, 3, 4]
-[INFO] 06-11-2024 23:41:58 [main] [Pages.P03_CartPage.CheckPage(P03_CartPage.java:21)] - https://www.saucedemo.com/v1/cart.html
-[INFO] 06-11-2024 23:41:58 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckRedirectTocartPassed
-[INFO] 06-11-2024 23:42:04 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckTheQuantityStarted
-[INFO] 06-11-2024 23:42:07 [main] [Pages.P02_ProductsPage.selectRandomProduct(P02_ProductsPage.java:58)] - the numbers is [1, 5, 6]
-[INFO] 06-11-2024 23:42:08 [main] [Pages.P03_CartPage.checkTheQuantity(P03_CartPage.java:27)] - the Quantity is :3
-[INFO] 06-11-2024 23:42:08 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckTheQuantityPassed
