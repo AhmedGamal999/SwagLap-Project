@@ -1,0 +1,2 @@
+[INFO] 06-11-2024 22:08:18 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase valid_LoginStarted
+[INFO] 06-11-2024 22:08:20 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCasevalid_LoginPassed

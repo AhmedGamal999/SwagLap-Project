@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FinishSuite">
+    <listeners>
+        <listener class-name="Listeners.IInvokedmethod"/>
+        <listener class-name="Listeners.Itest"/>
+    </listeners>
+    <test name="FinishTest">
+        <classes>
+            <class name="Tests.T06_FinishTC"/>
+        </classes>
+    </test>
+</suite>

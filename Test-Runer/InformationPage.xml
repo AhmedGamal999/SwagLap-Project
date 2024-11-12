@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="informationSuite">
+    <listeners>
+        <listener class-name="Listeners.IInvokedmethod"/>
+        <listener class-name="Listeners.Itest"/>
+    </listeners>
+    <test name="informationTest">
+        <classes>
+            <class name="Tests.T04_InformationTC"/>
+        </classes>
+    </test>
+</suite>

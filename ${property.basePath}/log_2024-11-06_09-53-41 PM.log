@@ -1,0 +1,4 @@
+[INFO] 06-11-2024 21:53:41 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase AddRandomProductsStarted
+[INFO] 06-11-2024 21:53:43 [main] [Pages.P02_ProductsPage.selectRandomProduct(P02_ProductsPage.java:58)] - the numbers is [3, 4, 5, 6]
+[INFO] 06-11-2024 21:53:44 [main] [Pages.P02_ProductsPage.CompareBetweenSelectedAndResult(P02_ProductsPage.java:50)] - number is 6
+[INFO] 06-11-2024 21:53:44 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseAddRandomProductsPassed

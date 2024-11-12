@@ -1,0 +1,4 @@
+[INFO] 05-11-2024 21:24:34 [main] [Tests.T01_LoginTest.setup(T01_LoginTest.java:35)] - Chrome is open
+[INFO] 05-11-2024 21:24:35 [main] [Tests.T01_LoginTest.setup(T01_LoginTest.java:37)] - jjjjjjjjjjjjjjjjjjj
+[INFO] 05-11-2024 21:24:36 [main] [Listeners.Itest.onTestStart(Itest.java:17)] - TestCasenullStarted
+[INFO] 05-11-2024 21:24:41 [main] [Listeners.Itest.onTestSuccess(Itest.java:9)] - TestCasenullPassed

@@ -1,0 +1,3 @@
+[INFO] 07-11-2024 14:01:30 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckRedirectTocartStarted
+[INFO] 07-11-2024 14:01:33 [main] [Pages.P03_CartPage.CheckPage(P03_CartPage.java:21)] - https://www.saucedemo.com/v1/cart.html
+[INFO] 07-11-2024 14:01:33 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckRedirectTocartPassed

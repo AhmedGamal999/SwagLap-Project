@@ -1,0 +1,8 @@
+[INFO] 07-11-2024 13:22:46 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase CheckRedirectTocartStarted
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$29.99]
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$9.99]
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$15.99]
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$49.99]
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$7.99]
+[INFO] 07-11-2024 13:22:48 [main] [Pages.P02_ProductsPage.GetProductsPrices(P02_ProductsPage.java:81)] - [$15.99]
+[INFO] 07-11-2024 13:22:48 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCaseCheckRedirectTocartPassed
