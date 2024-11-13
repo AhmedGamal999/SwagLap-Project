@@ -1,0 +1,4 @@
+[INFO] 13-11-2024 18:29:25 [main] [Tests.T01_LoginTest.setup(T01_LoginTest.java:35)] - null
+[INFO] 13-11-2024 18:29:41 [main] [Tests.T01_LoginTest.setup(T01_LoginTest.java:37)] - Chrome is open
+[INFO] 13-11-2024 18:29:42 [main] [Listeners.Itest.onTestStart(Itest.java:18)] - TestCase valid_LoginStarted
+[INFO] 13-11-2024 18:29:44 [main] [Listeners.Itest.onTestSuccess(Itest.java:10)] - TestCasevalid_LoginPassed
